@@ -1,4 +1,4 @@
-package com.company;
+package integra;
 
 public class Main {
 
