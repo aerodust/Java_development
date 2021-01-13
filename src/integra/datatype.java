@@ -9,5 +9,7 @@ public class datatype {
 
         System.out.println(6+6); //12
         System.out.println("6"+"6"); // 문자열 결합
+
+        System.out.println("1111".length()); //문자열 길이 측정
     }
 }
