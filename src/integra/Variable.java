@@ -7,5 +7,8 @@ public class Variable {
 
         double b =1.1;  // real number
         System.out.println(b);
+
+        String c = "Hello World";  // String type
+        System.out.println(c);
     }
 }
