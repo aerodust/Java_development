@@ -19,6 +19,6 @@ public class baekJoon {
                 int r = Integer.parseInt(array[0]);
                 int h = Integer.parseInt(array[1]);
                 System.out.println(r+h);*/
-
+        System.out.println(2*3.52);
     }
 }
