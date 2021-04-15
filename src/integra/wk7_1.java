@@ -30,7 +30,7 @@ public class wk7_1 {
                     book[j]=book[j+1];
                     book[j+1]=temp;
                     changed = true;
-                }
+                } //
             }
         if (!changed){break;}
         }
